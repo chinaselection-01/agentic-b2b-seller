@@ -1,0 +1,20 @@
+{
+  "agentId": "cedarhaus-seller",
+  "name": "CedarHaus Wooden Coops",
+  "owner": "Yongkang STWADD HOUSEWARE CO.,LTD",
+  "contact": "bob@stwadd.com",
+  "port": 8787,
+  "languages": ["en", "zh"],
+  "offerings": [
+    "wooden chicken coop",
+    "chicken run",
+    "outdoor pet house",
+    "CedarHaus DS2001 / DS2002 / DS2004 / DS2005"
+  ],
+  "description": "OEM wooden chicken coops and outdoor pet houses, FOB Ningbo, HS 4421999090. MOQ 100 sets, lead time 25-35 days.",
+  "llm": {
+    "baseUrl": "https://api.openai.com/v1",
+    "apiKeyEnv": "OPENAI_API_KEY",
+    "model": "gpt-4o-mini"
+  }
+}

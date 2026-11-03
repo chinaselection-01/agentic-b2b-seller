@@ -1,0 +1,16 @@
+{
+  "name": "agentic-b2b-seller",
+  "version": "0.1.0",
+  "description": "Downloadable seller agent: load your knowledge base, expose an agent card + inquiry endpoint, take orders 24/7 via AI.",
+  "type": "module",
+  "bin": {
+    "seller-agent": "server.js"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
